@@ -1,0 +1,19 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#date{
+    font-size: 100px;
+    font-weight: bold;
+    border: 5px solid black;
+
+}
